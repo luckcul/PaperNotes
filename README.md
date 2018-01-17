@@ -18,7 +18,7 @@ some paper notes for NLP, DL etc.
 
 ### Machine Translation
 
-* ACL 2002 **BLEU: a Method for Automatic Evaluation of Machine Translation** [[pdf]](http://www.aclweb.org/anthology/P/P02/P02-1040.pdf) [[note]](NLP/BLEU: a Method for Automatic Evaluation of Machine Translation.md)
+* ACL 2002 **BLEU: a Method for Automatic Evaluation of Machine Translation** [[pdf]](http://www.aclweb.org/anthology/P/P02/P02-1040.pdf) [[note]](./NLP/BLEU: a Method for Automatic Evaluation of Machine Translation.md)
 * NIPS 2014 **Sequence to sequence learning with neural networks** [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 * EMNLP 2015 **Effective Approaches to Attention-based Neural Machine Translation** [[pdf]](https://arxiv.org/abs/1508.04025)
 * 2014 **Neural Machine Translation by Jointly Learning to Align and Translate** [[pdf]](https://arxiv.org/abs/1409.0473)
