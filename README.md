@@ -18,7 +18,7 @@ some paper notes for NLP, DL etc.
 
 ### Machine Translation
 
-* ACL 2002 **BLEU: a Method for Automatic Evaluation of Machine Translation** [[pdf]](http://www.aclweb.org/anthology/P/P02/P02-1040.pdf) [[note]](./NLP/BLEU: a Method for Automatic Evaluation of Machine Translation.md)
+* ACL 2002 **BLEU: a Method for Automatic Evaluation of Machine Translation** [[pdf]](http://www.aclweb.org/anthology/P/P02/P02-1040.pdf) [[note]](./NLP/BLEU:_a_Method_for_Automatic_Evaluation_of_Machine_Translation.md)
 * NIPS 2014 **Sequence to sequence learning with neural networks** [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 * EMNLP 2015 **Effective Approaches to Attention-based Neural Machine Translation** [[pdf]](https://arxiv.org/abs/1508.04025)
 * 2014 **Neural Machine Translation by Jointly Learning to Align and Translate** [[pdf]](https://arxiv.org/abs/1409.0473)
@@ -26,3 +26,4 @@ some paper notes for NLP, DL etc.
 ### Distributed Representation
 
 * NIPS 2013 **Distributed Representations of Words and Phrases and their Compositionality** [[pdf]](https://arxiv.org/abs/1310.4546) [[note]](http://luckcul.net/2017/10/28/learn-word2vec/) 
+* 2014 **word2vec Parameter Learning Explained** [[pdf]](https://arxiv.org/abs/1411.2738)   [[note]](./NLP/word2vec_Parameter_Learning_Explained.md)
