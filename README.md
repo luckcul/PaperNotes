@@ -2,6 +2,8 @@
 
 some paper notes for NLP, DL etc.
 
+建议使用[Typora](https://typora.io/) 阅读。
+
 ## NLP
 
 ### Language Model
@@ -10,8 +12,8 @@ some paper notes for NLP, DL etc.
 
 ### Text Classification
 
-* 2016 **Bag of Tricks for Efficient Text Classification** [[pdf]](https://arxiv.org/abs/1607.01759)
-* EMNLP 2014 **Convolutional Neural Networks for Sentence Classification** [[pdf]](https://arxiv.org/abs/1408.5882)
+* 2016 **Bag of Tricks for Efficient Text Classification** [[pdf]](https://arxiv.org/abs/1607.01759) [[note]](./NLP/Bag_of_Tricks_for_Efficient_Text_Classification.md)
+* EMNLP 2014 **Convolutional Neural Networks for Sentence Classification** [[pdf]](https://arxiv.org/abs/1408.5882) [[note]](./NLP/Convolutional_Neural_Networks_for_Sentence_Classification.md)
 * NAACL 2016 **Hierarchical Attention Networks for Document Classification** [[pdf]](http://www.aclweb.org/anthology/N16-1174)
 * TACL 2017  **Learning Structured Text Representations** [[pdf]](https://arxiv.org/abs/1705.09207) [[code]](https://github.com/luckcul/structured) 
 * AAAI 2015 **Recurrent Convolutional Neural Networks for Text Classification** [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552)
