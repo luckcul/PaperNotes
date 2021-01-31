@@ -1,6 +1,6 @@
 # Paper Notes
 
-some paper notes for NLP, DL etc.
+some paper notes for NLP, DL, GraphLearning etc.
 
 建议使用[Typora](https://typora.io/) 阅读。
 
@@ -29,3 +29,13 @@ some paper notes for NLP, DL etc.
 
 * NIPS 2013 **Distributed Representations of Words and Phrases and their Compositionality** [[pdf]](https://arxiv.org/abs/1310.4546) [[note]](http://luckcul.net/2017/10/28/learn-word2vec/) [[source code note]](./NLP/read_word2vec_source_code.md)
 * 2014 **word2vec Parameter Learning Explained** [[pdf]](https://arxiv.org/abs/1411.2738)   [[note]](./NLP/word2vec_Parameter_Learning_Explained.md)
+
+
+
+## Graph Learning
+
+### Graph Embedding
+
+* 2014 *SIGKDD* **DeepWalk: Online Learning of Social Representations** [pdf](https://arxiv.org/abs/1403.6652) [node](./GraphLearning/DeepWalk.md)
+* 2016 KDD **node2vec: Scalable Feature Learning for Networks** [pdf](https://arxiv.org/abs/1607.00653) [note](./GraphLearning/node2vec.md)
+
